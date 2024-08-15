@@ -114,3 +114,7 @@ while conti < l:
     conti = conti + 1
 
 print("GABRIEL LINDO")
+print("GABRIEL GOSTOSO")
+
+print("GABRIEL MARAVILHOSO")
+print("GABRIEL BELO")
